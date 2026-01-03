@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Chien (or 'chin'). My hope is to become a useful engineer in Embedded System Industry.
+I'm Chien (or 'chin'). My hope is to become a useful engineer in Embedded System Industry. 
 
 
 - 🔭 I’m currently working on Kicad, Micrcontroller( Arduino, ESP32, STM32, Raspberry Pi), 
